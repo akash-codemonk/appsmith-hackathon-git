@@ -20,11 +20,7 @@
     "parentColumnSpace": 12.65625,
     "dynamicTriggerPathList": [],
     "leftColumn": 22,
-    "dynamicBindingPathList": [
-        {"key": "truncateButtonColor"},
-        {"key": "fontFamily"},
-        {"key": "borderRadius"}
-    ],
+    "dynamicBindingPathList": [],
     "shouldTruncate": false,
     "truncateButtonColor": "#FFC13D",
     "text": "This is a sample home page.",
