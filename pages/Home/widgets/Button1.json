@@ -3,7 +3,8 @@
     "boxShadow": "none",
     "mobileBottomRow": 16,
     "widgetName": "Button1",
-    "buttonColor": "#0000FF",
+    "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+    "dynamicPropertyPathList": [],
     "displayName": "Button",
     "iconSVG": "https://release-appcdn.appsmith.com/static/media/icon.7beb9123fb53027d9d6b778cdfe4caed.svg",
     "searchTags": [
@@ -20,8 +21,11 @@
     "parentColumnSpace": 12.65625,
     "dynamicTriggerPathList": [],
     "leftColumn": 23,
-    "dynamicBindingPathList": [],
-    "text": "Looks Fantastic",
+    "dynamicBindingPathList": [
+        {"key": "buttonColor"},
+        {"key": "text"}
+    ],
+    "text": "Looks Fantastic {{\"test\"}}",
     "isDisabled": false,
     "key": "enmxsm5afm",
     "isDeprecated": false,
