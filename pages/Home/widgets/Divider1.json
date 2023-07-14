@@ -14,14 +14,14 @@
     "mobileRightColumn": 51,
     "animateLoading": true,
     "parentColumnSpace": 12.578125,
-    "leftColumn": 31,
+    "leftColumn": 44,
     "dynamicBindingPathList": [],
     "key": "1ov6uydztx",
     "dividerColor": "#858282",
     "orientation": "horizontal",
     "strokeStyle": "solid",
     "isDeprecated": false,
-    "rightColumn": 51,
+    "rightColumn": 64,
     "widgetId": "1tw48syl0y",
     "capSide": 0,
     "minWidth": 450,
@@ -32,5 +32,7 @@
     "isLoading": false,
     "mobileTopRow": 134,
     "responsiveBehavior": "fill",
-    "mobileLeftColumn": 31
+    "originalTopRow": 134,
+    "mobileLeftColumn": 31,
+    "originalBottomRow": 138
 }
