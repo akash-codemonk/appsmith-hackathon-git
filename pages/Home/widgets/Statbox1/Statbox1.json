@@ -8,7 +8,7 @@
     "iconSVG": "/static/media/icon.8290ec5872cca73ad22ed3118dd2ed22.svg",
     "searchTags": ["statbox"],
     "topRow": 90,
-    "bottomRow": 104,
+    "bottomRow": 105,
     "parentRowSpace": 10,
     "type": "STATBOX_WIDGET",
     "hideCard": false,
@@ -26,7 +26,7 @@
         "widgetName": "Canvas1",
         "displayName": "Canvas",
         "topRow": 0,
-        "bottomRow": 140,
+        "bottomRow": 150,
         "parentRowSpace": 1,
         "type": "CANVAS_WIDGET",
         "canExtend": false,
@@ -71,6 +71,6 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 8,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 104,
+    "originalBottomRow": 105,
     "minDynamicHeight": 14
 }

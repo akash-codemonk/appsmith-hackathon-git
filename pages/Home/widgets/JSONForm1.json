@@ -5,7 +5,7 @@
     "topRow": 88,
     "type": "JSON_FORM_WIDGET",
     "animateLoading": true,
-    "leftColumn": 30,
+    "leftColumn": 31,
     "dynamicBindingPathList": [
         {"key": "borderRadius"},
         {"key": "boxShadow"},
@@ -241,7 +241,7 @@
     "key": "aliva4j48x",
     "backgroundColor": "#fff",
     "isDeprecated": false,
-    "rightColumn": 55,
+    "rightColumn": 56,
     "widgetId": "hysfw05o7p",
     "minWidth": 450,
     "parentId": "0",
